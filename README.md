@@ -60,15 +60,15 @@ $ status ● online_
 [03 // BUILDS]
 ```
 
-<!-- local builds, not yet public on GitHub — no dead links -->
+<!-- not deployed — local builds -->
 
-| PROJECT | DESCRIPTION | STACK |
+| PROJECT | STACK | DESCRIPTION |
 |---|---|---|
-| **MC-Host** `Zhosting` | Hosting billing platform — Pterodactyl automation, VietQR/MBBank checkout, admin + Docker | `React 19` `Express + TS` `Prisma` `MariaDB` `Redis` |
-| **minecraft-panel-custom** | Custom game-server panel on Pterodactyl — isolated Docker containers | `PHP` `React` `Go` `Docker` |
-| **mbbank-service** | Unofficial MBBank Python API — balance, history, transfers | `Python` `Docker` |
-| **hermes-stack** | Docker self-hosting agent stack — socket-proxy + workspace agent | `Python` `Docker` |
-| [**haru-manager**](https://github.com/minzinccs/haru-manager) | Image curation panel for Haru | `JavaScript` |
+| **unknown-01** | `React` `Express` `Prisma` | Hosting billing platform |
+| **unknown-02** | `PHP` `React` `Docker` | Game-server panel |
+| **unknown-03** | `Python` `Docker` | Banking API wrapper |
+| **unknown-04** | `Python` `Docker` | Self-hosting agent stack |
+| [**haru-manager**](https://github.com/minzinccs/haru-manager) | `JavaScript` | Image curation panel |
 
 ---
 

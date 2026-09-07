@@ -4,18 +4,18 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+self-hosting+%2F%2F+system+integrations%3B%3E+minecraft+server+engineering_%3B%3E+managing+VPNs+%2B+custom+dashboards%3B%3E+welcome+to+the+neon+terminal_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+fullstack+developer_%3B%3E+building+web+apps+%2F%2F+apis%3B%3E+typescript+%2B+react+%2B+python%3B%3E+welcome+to+my+profile_)](https://git.io/typing-svg)
 
 </div>
 
 ```ansi
 $ whoami
-ZetvD (minzinccs)
+ZetvD (minzinccs) — developer
 $ cat focus.txt
-[>] self-hosting + system integrations
-[>] minecraft server engineering
-[>] VPN architectures + custom web dashboards
-$ status ● online — building in the neon terminal_
+[>] web apps + apis
+[>] typescript // react // python
+[>] building + shipping daily
+$ status ● online_
 ```
 
 ---
@@ -28,7 +28,7 @@ $ status ● online — building in the neon terminal_
 | :---: | :--- |
 | **LANGUAGES** | ![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=flat-square&logo=javascript&logoColor=F9F002&labelColor=0D0221) ![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=flat-square&logo=typescript&logoColor=00F0FF&labelColor=0D0221) ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=00F0FF&labelColor=0D0221) ![Java](https://img.shields.io/badge/Java-0D0221?style=flat-square&logo=openjdk&logoColor=FF2A6D&labelColor=0D0221) ![PHP](https://img.shields.io/badge/PHP-0D0221?style=flat-square&logo=php&logoColor=FF2A6D&labelColor=0D0221) |
 | **BACKEND & FRONTEND** | ![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=nodedotjs&logoColor=00F0FF&labelColor=0D0221) ![Express](https://img.shields.io/badge/Express-0D0221?style=flat-square&logo=express&logoColor=F9F002&labelColor=0D0221) ![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=00F0FF&labelColor=0D0221) ![Tailwind](https://img.shields.io/badge/Tailwind-0D0221?style=flat-square&logo=tailwindcss&logoColor=FF2A6D&labelColor=0D0221) |
-| **INFRA & GAME SERVERS** | ![Linux](https://img.shields.io/badge/Linux-0D0221?style=flat-square&logo=linux&logoColor=F9F002&labelColor=0D0221) ![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=00F0FF&labelColor=0D0221) ![Git](https://img.shields.io/badge/Git-0D0221?style=flat-square&logo=git&logoColor=FF2A6D&labelColor=0D0221) ![PaperMC](https://img.shields.io/badge/PaperMC-0D0221?style=flat-square&logo=minecraft&logoColor=F9F002&labelColor=0D0221) |
+| **DEVOPS & INFRA** | ![Linux](https://img.shields.io/badge/Linux-0D0221?style=flat-square&logo=linux&logoColor=F9F002&labelColor=0D0221) ![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=00F0FF&labelColor=0D0221) ![Git](https://img.shields.io/badge/Git-0D0221?style=flat-square&logo=git&logoColor=FF2A6D&labelColor=0D0221) |
 | **NETWORK & DATA** | ![Nginx](https://img.shields.io/badge/Nginx-0D0221?style=flat-square&logo=nginx&logoColor=00F0FF&labelColor=0D0221) ![MariaDB](https://img.shields.io/badge/MariaDB-0D0221?style=flat-square&logo=mariadb&logoColor=FF2A6D&labelColor=0D0221) ![Redis](https://img.shields.io/badge/Redis-0D0221?style=flat-square&logo=redis&logoColor=FF2A6D&labelColor=0D0221) ![WireGuard](https://img.shields.io/badge/WireGuard-0D0221?style=flat-square&logo=wireguard&logoColor=F9F002&labelColor=0D0221) |
 
 ---
@@ -78,22 +78,11 @@ $ status ● online — building in the neon terminal_
 
 ```js
 const zetvd = {
-  focus: ["vpn_architectures", "custom_dashboards", "game_server_automation"],
-  stack: "typescript // python // docker",
+  focus: ["web_apps", "apis", "open_source"],
+  stack: "typescript // react // python",
   status: "ONLINE",
   collab: true,
   ping: "github.com/minzinccs",
 };
 ```
 
----
-
-```text
-[ END_OF_TRANSMISSION ]
-```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=minzinccs&color=00F0FF&style=flat-square&label=UPLINK" alt="visitors" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2D1B4E&height=120&section=footer" width="100%" />

@@ -38,8 +38,8 @@ $ status ● online_
 ```
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minzinccs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF2A6D&text_color=00F0FF&border_radius=10" alt="minzinccs stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzinccs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C0CAF5&border_radius=10" alt="minzinccs top langs" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=minzinccs&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF2A6D&text_color=00F0FF&border_radius=10" alt="minzinccs stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=minzinccs&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C0CAF5&border_radius=10" alt="minzinccs top langs" />
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@ $ status ● online_
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minzinccs&bg_color=0D0221&color=00F0FF&line=FF2A6D&point=F9F002&area=true&hide_border=true" alt="minzinccs commit activity" />
+  <img width="100%" src="https://ghchart.rshah.org/00F0FF/minzinccs" alt="minzinccs commit activity" />
 </div>
 
 <div align="center">

@@ -20,8 +20,9 @@ $ status ● online — building in the neon terminal_
 
 ---
 
-<!-- THEME: cyberpunk-retro // TECH STACK v2 table layout -->
-## ⚡ TECH_STACK
+```text
+[01 // TECH_STACK]
+```
 
 | SYSTEM // MODULE | ARSENAL |
 | :---: | :--- |
@@ -32,8 +33,9 @@ $ status ● online — building in the neon terminal_
 
 ---
 
-<!-- THEME: tokyonight + bg #0D0221 // STATS neon grid mix -->
-## 📊 STATS // NEON_GRID
+```text
+[02 // STATS]
+```
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minzinccs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF2A6D&text_color=00F0FF&border_radius=10" alt="minzinccs stats" />
@@ -54,7 +56,9 @@ $ status ● online — building in the neon terminal_
 
 ---
 
-## 🚀 FEATURED_BUILDS
+```text
+[03 // BUILDS]
+```
 
 <!-- local builds, not yet public on GitHub — no dead links -->
 
@@ -68,27 +72,28 @@ $ status ● online — building in the neon terminal_
 
 ---
 
-## ⚡ CURRENT_FOCUS // BOOT_SEQUENCE
+```text
+[04 // UPLINK]
+```
 
-```ansi
-$ ./boot --mode=night-city --user=zetvd
-> initializing neon-grid ............ OK
-> loading vpn_architectures [███████████████-----] 78%
-> deploying dashboards // fullstack [██████████----------] 52%
-> current_quest: building + shipping daily
-> side_process: game-server automation
-> STATUS: ONLINE — open to collab
-$ ./run --energy=cyberpunk --coffee=∞
+```js
+const zetvd = {
+  focus: ["vpn_architectures", "custom_dashboards", "game_server_automation"],
+  stack: "typescript // python // docker",
+  status: "ONLINE",
+  collab: true,
+  ping: "github.com/minzinccs",
+};
 ```
 
 ---
 
+```text
+[ END_OF_TRANSMISSION ]
+```
+
 <div align="center">
-
-[![Farewell](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by,+choom!;SEE+YOU+IN+NIGHT+CITY_)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=minzinccs&color=00F0FF&style=flat-square&label=VISITORS" alt="visitors" />
-
+  <img src="https://komarev.com/ghpvc/?username=minzinccs&color=00F0FF&style=flat-square&label=UPLINK" alt="visitors" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=00F0FF,FF2A6D,F9F002,0D0221&height=120&section=footer&text=SEE_YOU_IN_NIGHT_CITY&fontColor=00F0FF&fontSize=28&fontAlignY=70&animation=fadeIn" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:2D1B4E&height=120&section=footer" width="100%" />

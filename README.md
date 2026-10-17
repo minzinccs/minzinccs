@@ -1,6 +1,6 @@
 <!-- PALETTE: parchment #F4E4BC | wood #4A2C17 | gold #F2C14E | leaf #46A02E | grass #6FBF3E | sky #8FD6F2 -->
 
-<img src="./assets/stardew-banner.svg" width="100%" alt="ZetvD — Stardew Valley style banner" />
+<img src="./assets/stardew-banner-anim.svg" width="100%" alt="ZetvD — Stardew Valley style banner" />
 
 <div align="center">
 
@@ -34,7 +34,17 @@ $ status ● online_
 <div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
-[02 // FARM STATS]
+[02 // SKILLS]
+```
+
+<div align="center">
+  <img width="72%" src="./assets/stardew-skills.svg" alt="skills panel" />
+</div>
+
+<div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
+
+```text
+[03 // FARM STATS]
 ```
 
 <div align="center">
@@ -57,7 +67,7 @@ $ status ● online_
 <div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
-[03 // BUILDS]
+[04 // BUILDS]
 ```
 
 <!-- not deployed — local builds -->
@@ -73,8 +83,12 @@ $ status ● online_
 <div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
-[04 // UPLINK]
+[05 // UPLINK]
 ```
+
+<div align="center">
+  <img width="96" src="./assets/stardew-avatar.svg" alt="ZetvD avatar" />
+</div>
 
 ```js
 const zetvd = {

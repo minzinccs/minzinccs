@@ -1,60 +1,60 @@
-<!-- PALETTE: bg #FBF3E7 | terracotta #E07A5F | sage #81B29A | honey #F2CC8F | ink #4A3F35 -->
+<!-- PALETTE: parchment #F4E4BC | wood #4A2C17 | gold #F2C14E | leaf #46A02E | grass #6FBF3E | sky #8FD6F2 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBF3E7,100:F2CC8F&height=220&section=header&text=ZetvD&fontSize=72&fontColor=4A3F35&stroke=E07A5F&strokeWidth=1&fontAlignY=50&animation=fadeIn" width="100%" />
+<img src="./assets/stardew-banner.svg" width="100%" alt="ZetvD — Stardew Valley style banner" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=%3E+fullstack+developer_%3B%3E+building+web+apps+%2F%2F+apis%3B%3E+typescript+%2B+react+%2B+python%3B%3E+slow+living+%2F%2F+fast+shipping_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=4A2C17&background=F4E4BC&center=true&vCenter=true&width=650&lines=%3E+fullstack+developer_%3B%3E+web+apps+%2F%2F+apis%3B%3E+typescript+%2B+react+%2B+python%3B%3E+cozy+farmer+%2F%2F+shipping+daily_)](https://git.io/typing-svg)
 
 </div>
 
 ```ansi
 $ whoami
 ZetvD (minzinccs) — developer
-$ cat focus.txt
+$ cat farm.log
 [>] web apps + apis
 [>] typescript // react // python
-[>] building + shipping daily
+[>] plant daily, harvest weekly
 $ status ● online_
 ```
 
-<div align="center"><sub>· ───────── 🌿 ───────── ·</sub></div>
+<div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
-[01 // TECH_STACK]
+[01 // TOOLBELT]
 ```
 
-| SYSTEM // MODULE | ARSENAL |
+| SKILL // SLOT | TOOLS |
 | :---: | :--- |
-| **LANGUAGES** | ![JavaScript](https://img.shields.io/badge/JavaScript-FBF3E7?style=flat-square&logo=javascript&logoColor=F2CC8F&labelColor=FBF3E7) ![TypeScript](https://img.shields.io/badge/TypeScript-FBF3E7?style=flat-square&logo=typescript&logoColor=E07A5F&labelColor=FBF3E7) ![Python](https://img.shields.io/badge/Python-FBF3E7?style=flat-square&logo=python&logoColor=81B29A&labelColor=FBF3E7) ![Java](https://img.shields.io/badge/Java-FBF3E7?style=flat-square&logo=openjdk&logoColor=E07A5F&labelColor=FBF3E7) ![PHP](https://img.shields.io/badge/PHP-FBF3E7?style=flat-square&logo=php&logoColor=81B29A&labelColor=FBF3E7) |
-| **BACKEND & FRONTEND** | ![Node.js](https://img.shields.io/badge/Node.js-FBF3E7?style=flat-square&logo=nodedotjs&logoColor=81B29A&labelColor=FBF3E7) ![Express](https://img.shields.io/badge/Express-FBF3E7?style=flat-square&logo=express&logoColor=F2CC8F&labelColor=FBF3E7) ![React](https://img.shields.io/badge/React-FBF3E7?style=flat-square&logo=react&logoColor=E07A5F&labelColor=FBF3E7) ![Tailwind](https://img.shields.io/badge/Tailwind-FBF3E7?style=flat-square&logo=tailwindcss&logoColor=81B29A&labelColor=FBF3E7) |
-| **DEVOPS & INFRA** | ![Linux](https://img.shields.io/badge/Linux-FBF3E7?style=flat-square&logo=linux&logoColor=F2CC8F&labelColor=FBF3E7) ![Docker](https://img.shields.io/badge/Docker-FBF3E7?style=flat-square&logo=docker&logoColor=81B29A&labelColor=FBF3E7) ![Git](https://img.shields.io/badge/Git-FBF3E7?style=flat-square&logo=git&logoColor=E07A5F&labelColor=FBF3E7) |
-| **NETWORK & DATA** | ![Nginx](https://img.shields.io/badge/Nginx-FBF3E7?style=flat-square&logo=nginx&logoColor=E07A5F&labelColor=FBF3E7) ![MariaDB](https://img.shields.io/badge/MariaDB-FBF3E7?style=flat-square&logo=mariadb&logoColor=81B29A&labelColor=FBF3E7) ![Redis](https://img.shields.io/badge/Redis-FBF3E7?style=flat-square&logo=redis&logoColor=E07A5F&labelColor=FBF3E7) ![WireGuard](https://img.shields.io/badge/WireGuard-FBF3E7?style=flat-square&logo=wireguard&logoColor=81B29A&labelColor=FBF3E7) |
+| **LANGUAGES** | ![JavaScript](https://img.shields.io/badge/JavaScript-4A2C17?style=flat-square&logo=javascript&logoColor=F2C14E&labelColor=4A2C17) ![TypeScript](https://img.shields.io/badge/TypeScript-4A2C17?style=flat-square&logo=typescript&logoColor=8FD6F2&labelColor=4A2C17) ![Python](https://img.shields.io/badge/Python-4A2C17?style=flat-square&logo=python&logoColor=7AD04F&labelColor=4A2C17) ![Java](https://img.shields.io/badge/Java-4A2C17?style=flat-square&logo=openjdk&logoColor=F2C14E&labelColor=4A2C17) ![PHP](https://img.shields.io/badge/PHP-4A2C17?style=flat-square&logo=php&logoColor=8FD6F2&labelColor=4A2C17) |
+| **BACKEND & FRONTEND** | ![Node.js](https://img.shields.io/badge/Node.js-4A2C17?style=flat-square&logo=nodedotjs&logoColor=7AD04F&labelColor=4A2C17) ![Express](https://img.shields.io/badge/Express-4A2C17?style=flat-square&logo=express&logoColor=F4E4BC&labelColor=4A2C17) ![React](https://img.shields.io/badge/React-4A2C17?style=flat-square&logo=react&logoColor=8FD6F2&labelColor=4A2C17) ![Tailwind](https://img.shields.io/badge/Tailwind-4A2C17?style=flat-square&logo=tailwindcss&logoColor=7AD04F&labelColor=4A2C17) |
+| **HOMESTEAD & INFRA** | ![Linux](https://img.shields.io/badge/Linux-4A2C17?style=flat-square&logo=linux&logoColor=F2C14E&labelColor=4A2C17) ![Docker](https://img.shields.io/badge/Docker-4A2C17?style=flat-square&logo=docker&logoColor=8FD6F2&labelColor=4A2C17) ![Git](https://img.shields.io/badge/Git-4A2C17?style=flat-square&logo=git&logoColor=F2C14E&labelColor=4A2C17) |
+| **BARNS & STORAGE** | ![Nginx](https://img.shields.io/badge/Nginx-4A2C17?style=flat-square&logo=nginx&logoColor=7AD04F&labelColor=4A2C17) ![MariaDB](https://img.shields.io/badge/MariaDB-4A2C17?style=flat-square&logo=mariadb&logoColor=8FD6F2&labelColor=4A2C17) ![Redis](https://img.shields.io/badge/Redis-4A2C17?style=flat-square&logo=redis&logoColor=C0562E&labelColor=4A2C17) ![WireGuard](https://img.shields.io/badge/WireGuard-4A2C17?style=flat-square&logo=wireguard&logoColor=7AD04F&labelColor=4A2C17) |
 
-<div align="center"><sub>· ───────── 🌿 ───────── ·</sub></div>
+<div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
-[02 // STATS]
+[02 // FARM STATS]
 ```
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=minzinccs&show_icons=true&hide_border=true&bg_color=FBF3E7&title_color=E07A5F&icon_color=81B29A&text_color=4A3F35&border_radius=10" alt="minzinccs stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=minzinccs&layout=compact&hide_border=true&bg_color=FBF3E7&title_color=E07A5F&text_color=4A3F35&border_radius=10" alt="minzinccs top langs" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=minzinccs&show_icons=true&hide_border=true&bg_color=F4E4BC&title_color=4A2C17&icon_color=46A02E&text_color=5A3921&border_radius=10" alt="minzinccs stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=minzinccs&layout=compact&hide_border=true&bg_color=F4E4BC&title_color=4A2C17&text_color=5A3921&border_radius=10" alt="minzinccs top langs" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=minzinccs&hide_border=true&background=FBF3E7&ring=E07A5F&fire=E07A5F&currStreakNum=4A3F35&sideNums=4A3F35&currStreakLabel=81B29A&sideLabels=4A3F35&dates=8A7E70&border_radius=10" alt="minzinccs streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=minzinccs&hide_border=true&background=F4E4BC&ring=C0562E&fire=F2C14E&currStreakNum=4A2C17&sideNums=4A2C17&currStreakLabel=46A02E&sideLabels=5A3921&dates=9A7B5A&border_radius=10" alt="minzinccs streak" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/E07A5F/minzinccs" alt="minzinccs commit activity" />
+  <img width="100%" src="https://ghchart.rshah.org/46A02E/minzinccs" alt="minzinccs commit activity" />
 </div>
 
 <div align="center">
   <img width="100%" src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph" />
 </div>
 
-<div align="center"><sub>· ───────── 🌿 ───────── ·</sub></div>
+<div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
 [03 // BUILDS]
@@ -70,7 +70,7 @@ $ status ● online_
 | **unknown-04** | `Python` `Docker` | Self-hosting agent stack |
 | [**haru-manager**](https://github.com/minzinccs/haru-manager) | `JavaScript` | Image curation panel |
 
-<div align="center"><sub>· ───────── 🌿 ───────── ·</sub></div>
+<div align="center"><img src="./assets/stardew-divider.svg" width="620" alt="" /></div>
 
 ```text
 [04 // UPLINK]
@@ -81,14 +81,12 @@ const zetvd = {
   focus: ["web_apps", "apis", "open_source"],
   stack: "typescript // react // python",
   status: "ONLINE",
-  mood: "cozy_sage_villa",
+  season: "stardew_valley",
   collab: true,
   ping: "github.com/minzinccs",
 };
 ```
 
 <div align="center">
-  <sub><i>“slow living · fast shipping — build calm, ship clean.”</i></sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2CC8F,100:FBF3E7&height=120&section=footer" width="100%" />
+  <sub><i>“plant daily · harvest weekly — build calm, ship clean.”</i></sub>
 </div>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30" role="img" aria-label="divider">
+  <g fill="#C9A86F"><rect x="70" y="13" width="26" height="4"/><rect x="112" y="13" width="26" height="4"/><rect x="154" y="13" width="26" height="4"/><rect x="196" y="13" width="26" height="4"/><rect x="238" y="13" width="26" height="4"/><rect x="280" y="13" width="26" height="4"/><rect x="322" y="13" width="26" height="4"/><rect x="364" y="13" width="26" height="4"/><rect x="500" y="13" width="26" height="4"/><rect x="542" y="13" width="26" height="4"/><rect x="584" y="13" width="26" height="4"/><rect x="626" y="13" width="26" height="4"/><rect x="668" y="13" width="26" height="4"/><rect x="710" y="13" width="26" height="4"/><rect x="752" y="13" width="26" height="4"/><rect x="794" y="13" width="26" height="4"/></g>
+  <rect x="424" y="9" width="10" height="10" fill="#46A02E"/>
+  <rect x="466" y="9" width="10" height="10" fill="#46A02E"/>
+  <circle cx="450" cy="15" r="10" fill="#F2C14E"/>
+  <circle cx="450" cy="15" r="5" fill="#FBE38A"/>
+</svg>

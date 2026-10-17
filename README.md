@@ -90,6 +90,10 @@ $ status ● online_
   <img width="96" src="./assets/stardew-avatar.svg" alt="ZetvD avatar" />
 </div>
 
+<div align="center">
+  <img width="58%" src="./assets/stardew-typing.gif" alt="ZetvD — typing" />
+</div>
+
 ```js
 const zetvd = {
   focus: ["web_apps", "apis", "open_source"],
